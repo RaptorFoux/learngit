@@ -39,6 +39,10 @@ main {
     margin: 0 auto;
 }
 
+div {
+	display: flex;
+}
+
 footer {
     color: white;
 }
